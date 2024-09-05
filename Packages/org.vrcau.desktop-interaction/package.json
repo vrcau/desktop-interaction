@@ -1,0 +1,16 @@
+{
+  "name": "org.vrcau.desktop-interaction",
+  "displayName": "Desktop Interaction System",
+  "version": "0.0.1",
+  "description": "a better desktop interaction system",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.worlds": ">=3.4.1"
+  },
+  "author": {
+    "name": "VRChat Aerospace University",
+    "email": "lipww1234@foxmail.com",
+    "url": "https://yuxiaviation.com/"
+  },
+  "unity": "2019.4"
+}
