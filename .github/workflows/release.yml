@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      packageName: com.yuxiaviation.vau320neo
+      packageName: org.vrcau.desktop-interaction
 
     steps:
       - name: Checkout
